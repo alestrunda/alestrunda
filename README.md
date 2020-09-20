@@ -23,6 +23,8 @@
   </a>
 </div>
 
+<p>&nbsp;</p>
+
 ## 🔧 Working with
 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original.svg" width="40px">&nbsp;
@@ -44,6 +46,8 @@
 <img src="https://devicons.github.io/devicon/devicon.git/icons/gulp/gulp-plain.svg" width="40px">&nbsp;
 <img src="https://devicons.github.io/devicon/devicon.git/icons/wordpress/wordpress-plain.svg" width="40px">&nbsp;
 <img src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg" width="40px">
+
+<p>&nbsp;</p>
 
 ## 📚 Currently studying
 
