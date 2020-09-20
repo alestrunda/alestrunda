@@ -12,14 +12,14 @@
 
 <div style="text-align:center">
   <p>👋 Don't be shy and say <code>Hello</code></p>
-  <img src="https://img.shields.io/static/v1?label=&message=alestrunda+at+gmail&color=red&labelColor=505050&style=flat&logo=gmail">
+  <img src="https://img.shields.io/badge/-alestrunda%20at%20gmail-red?labelColor=505050&style=flat&logo=gmail">
   &nbsp;
   <a href="https://www.linkedin.com/in/ales-trunda/">
-    <img src="https://img.shields.io/badge/linkedin-alestrunda-blue?style=flat&logo=linkedin">
+    <img src="https://img.shields.io/badge/-alestrunda-blue?style=flat&logo=linkedin&labelColor=505050">
   </a>
   &nbsp;
   <a href="">
-    <img src="https://img.shields.io/badge/web-alestrunda.eu-brightgreen?style=flat&logo=gatsby">
+    <img src="https://img.shields.io/badge/-alestrunda.eu-brightgreen?style=flat&logo=gatsby&labelColor=505050">
   </a>
 </div>
 
