@@ -25,42 +25,24 @@
 
 ## 🔧 Working with
 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original.svg" width="40px">
-&nbsp;
-<img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original.svg" width="40px">
-&nbsp;
-<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" width="40px">
-&nbsp;
-<img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original.svg" width="40px">
-&nbsp;
-<img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" width="40px">
-&nbsp;
-<img src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" width="40px">
-&nbsp;
-<img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original.svg" width="40px">
-&nbsp;
-<img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" width="40px">
-&nbsp;
-<img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" width="40px">
-&nbsp;
-<img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original.svg" width="40px">
-&nbsp;
-<img src="https://devicons.github.io/devicon/devicon.git/icons/jquery/jquery-original.svg" width="40px">
-&nbsp;
-<img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" width="40px">
-&nbsp;
-<img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" width="40px">
-&nbsp;
-<img src="https://devicons.github.io/devicon/devicon.git/icons/npm/npm-original-wordmark.svg" width="40px">
-&nbsp;
-<img src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" width="40px">
-&nbsp;
-<img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-plain.svg" width="40px">
-&nbsp;
-<img src="https://devicons.github.io/devicon/devicon.git/icons/gulp/gulp-plain.svg" width="40px">
-&nbsp;
-<img src="https://devicons.github.io/devicon/devicon.git/icons/wordpress/wordpress-plain.svg" width="40px">
-&nbsp;
+<img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original.svg" width="40px">&nbsp;
+<img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original.svg" width="40px">&nbsp;
+<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" width="40px">&nbsp;
+<img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original.svg" width="40px">&nbsp;
+<img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" width="40px">&nbsp;
+<img src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" width="40px">&nbsp;
+<img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original.svg" width="40px">&nbsp;
+<img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" width="40px">&nbsp;
+<img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" width="40px">&nbsp;
+<img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original.svg" width="40px">&nbsp;
+<img src="https://devicons.github.io/devicon/devicon.git/icons/jquery/jquery-original.svg" width="40px">&nbsp;
+<img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" width="40px">&nbsp;
+<img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" width="40px">&nbsp;
+<img src="https://devicons.github.io/devicon/devicon.git/icons/npm/npm-original-wordmark.svg" width="40px">&nbsp;
+<img src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" width="40px">&nbsp;
+<img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-plain.svg" width="40px">&nbsp;
+<img src="https://devicons.github.io/devicon/devicon.git/icons/gulp/gulp-plain.svg" width="40px">&nbsp;
+<img src="https://devicons.github.io/devicon/devicon.git/icons/wordpress/wordpress-plain.svg" width="40px">&nbsp;
 <img src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg" width="40px">
 
 ## 📚 Currently studying
