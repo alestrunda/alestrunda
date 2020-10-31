@@ -1,7 +1,7 @@
 ## 🤵 About me
 
 - full-stack developer, focused on front-end
-- Solar Winds employee
+- SolarWinds employee
 - occasional freelancer
 - react.js fan
 - Themeforest templates author
@@ -11,7 +11,7 @@
 - barrel rider 😎
 
 <p>👋 Don't be shy and say <code>Hello</code></p>
-<img src="https://img.shields.io/badge/-alestrunda%20at%20gmail-red?labelColor=505050&style=flat&logo=gmail">
+<a><img src="https://img.shields.io/badge/-alestrunda%20at%20gmail-red?labelColor=505050&style=flat&logo=gmail"></a>
 &nbsp;
 <a href="https://www.linkedin.com/in/ales-trunda/">
   <img src="https://img.shields.io/badge/-alestrunda-blue?style=flat&logo=linkedin&labelColor=505050">
