@@ -24,27 +24,27 @@
 
 ## 🔧 Working with
 
-<img src="https://img.shields.io/badge/-HTML-gray?style=flat&logo=html5">
-<img src="https://img.shields.io/badge/-CSS-gray?style=flat&logo=css3">
-<img src="https://img.shields.io/badge/-JavaScript-gray?style=flat&logo=javascript">
-<img src="https://img.shields.io/badge/-React-gray?style=flat&logo=react">
-<img src="https://img.shields.io/badge/-Typescript-gray?style=flat&logo=typescript">
-<img src="https://img.shields.io/badge/-Redux-gray?style=flat&logo=redux">
-<img src="https://img.shields.io/badge/-Vue-gray?style=flat&logo=vue.js">
-<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-gray?style=flat&logo=visual-studio-code">
-<img src="https://img.shields.io/badge/-Node.js-gray?style=flat&logo=node.js">
-<img src="https://img.shields.io/badge/-Python-gray?style=flat&logo=python">
-<img src="https://img.shields.io/badge/-MySQL-gray?style=flat&logo=mysql">
-<img src="https://img.shields.io/badge/-jQuery-gray?style=flat&logo=jquery">
-<img src="https://img.shields.io/badge/-SASS-gray?style=flat&logo=sass">
-<img src="https://img.shields.io/badge/-Bootstrap-gray?style=flat&logo=bootstrap">
-<img src="https://img.shields.io/badge/-npm-gray?style=flat&logo=npm">
-<img src="https://img.shields.io/badge/-docker-gray?style=flat&logo=docker">
-<img src="https://img.shields.io/badge/-webpack-gray?style=flat&logo=webpack">
-<img src="https://img.shields.io/badge/-gulp-gray?style=flat&logo=gulp">
-<img src="https://img.shields.io/badge/-WordPress-gray?style=flat&logo=wordpress">
-<img src="https://img.shields.io/badge/-git-gray?style=flat&logo=git">
-<img src="https://img.shields.io/badge/-bash-gray?style=flat&logo=gnu-bash">
+![](https://img.shields.io/badge/-HTML-gray?style=flat&logo=html5)
+![](https://img.shields.io/badge/-CSS-gray?style=flat&logo=css3)
+![](https://img.shields.io/badge/-JavaScript-gray?style=flat&logo=javascript)
+![](https://img.shields.io/badge/-React-gray?style=flat&logo=react)
+![](https://img.shields.io/badge/-Typescript-gray?style=flat&logo=typescript)
+![](https://img.shields.io/badge/-Redux-gray?style=flat&logo=redux)
+![](https://img.shields.io/badge/-Vue-gray?style=flat&logo=vue.js)
+![](https://img.shields.io/badge/-Visual%20Studio%20Code-gray?style=flat&logo=visual-studio-code)
+![](https://img.shields.io/badge/-Node.js-gray?style=flat&logo=node.js)
+![](https://img.shields.io/badge/-Python-gray?style=flat&logo=python)
+![](https://img.shields.io/badge/-MySQL-gray?style=flat&logo=mysql)
+![](https://img.shields.io/badge/-jQuery-gray?style=flat&logo=jquery)
+![](https://img.shields.io/badge/-SASS-gray?style=flat&logo=sass)
+![](https://img.shields.io/badge/-Bootstrap-gray?style=flat&logo=bootstrap)
+![](https://img.shields.io/badge/-npm-gray?style=flat&logo=npm)
+![](https://img.shields.io/badge/-docker-gray?style=flat&logo=docker)
+![](https://img.shields.io/badge/-webpack-gray?style=flat&logo=webpack)
+![](https://img.shields.io/badge/-gulp-gray?style=flat&logo=gulp)
+![](https://img.shields.io/badge/-WordPress-gray?style=flat&logo=wordpress)
+![](https://img.shields.io/badge/-git-gray?style=flat&logo=git)
+![](https://img.shields.io/badge/-bash-gray?style=flat&logo=gnu-bash)
 
 <p>&nbsp;</p>
 
