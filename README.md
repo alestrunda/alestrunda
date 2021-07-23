@@ -12,7 +12,7 @@
 - ordinary cook
 - barrel rider 😎
 
-<p>👋 Don't be shy and say <code>Hello</code></p>
+<p>👋&nbsp;Don't be shy and say <code>Hello</code></p>
 
 <a href="mailto:alestrunda@gmail.com"><img src="https://img.shields.io/badge/-alestrunda%20at%20gmail-red?labelColor=505050&style=flat&logo=gmail"></a>
 &nbsp;
@@ -50,4 +50,4 @@
 
 ## 📚 Currently studying
 
-- Python
+- Docker &amp; Kubernetes
