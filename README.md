@@ -1,7 +1,7 @@
 ## 🤵 About me
 
-- full-stack developer, focused on front-end
-- SolarWinds employee
+- front-end developer, also doing full-stack
+- Labster employee
 - IT university graduate
 - occasional freelancer
 - react.js fan
@@ -50,4 +50,4 @@
 
 ## 📚 Currently studying
 
-- Docker &amp; Kubernetes
+- Vue.js
