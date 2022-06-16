@@ -50,4 +50,4 @@
 
 ## 📚 Currently studying
 
-- Vue.js
+- MongoDB
