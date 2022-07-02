@@ -8,7 +8,7 @@
 - Themeforest templates author
 - keen learner
 - team player
-- fitness lover
+- fitness lover and CPD certified fitness trainer
 - ordinary cook
 - barrel rider 😎
 
