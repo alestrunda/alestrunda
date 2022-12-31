@@ -1,7 +1,7 @@
 ## 🤵 About me
 
 - front-end developer, also doing full-stack
-- Labster employee
+- SentinelOne employee
 - IT university graduate
 - occasional freelancer
 - react.js fan
