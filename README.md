@@ -50,4 +50,4 @@
 
 ## 📚 Currently studying
 
-- MongoDB
+- micro-frontends
